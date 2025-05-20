@@ -31,5 +31,4 @@ npm install -D vite-plugin-mkcert
 ### Libraries
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-[![Redux DevTools](https://img.shields.io/badge/Redux%20DevTools-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/reduxjs/redux-devtools)
 
